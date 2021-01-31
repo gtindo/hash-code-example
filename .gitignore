@@ -2,3 +2,6 @@ venv
 node_modules
 .idea
 .vscode
+outputs/*
+.history
+.vscode
